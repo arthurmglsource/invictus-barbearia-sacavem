@@ -1,0 +1,23 @@
+INVICTUS BARBEARIA — PACOTE DE REFERÊNCIAS
+=========================================
+
+COMO USAR
+1. Descompacta o ZIP na pasta do projeto (idealmente /references/invictus).
+2. Abre PROMPT_MASTER_INVICTUS.md e cola o texto no Codex ou Antigravity.
+3. Indica ao agente que os ficheiros estão em /references/invictus.
+4. Os dados comerciais atuais devem ser confirmados antes de publicar.
+
+PASTAS
+01_LOGO: a marca original enviada e duas variantes transparência (sem redesenho).
+02_FOTOS_REAIS: sete fotografias originais enviadas, convertidas para JPG de alta qualidade.
+03_REFERENCIAS_VISUAIS: screenshot CRISP enviada e prévia conceitual gerada por IA.
+04_MOODBOARD: prancha de referência com 10 imagens etiquetadas.
+
+ALERTA
+A prévia de hero com tratamento facial foi gerada por IA e é SOMENTE referência de direção visual. Não a apresentar como imagem documental da Invictus. As fotografias de 02_FOTOS_REAIS são os assets prioritários.
+
+LINKS
+https://www.crispmtl.com/
+https://levitskiy.dev/en/work/polyakov
+https://www.instagram.com/invictus.barbeariapt/
+https://invictusbarbeariasacavem.setmore.com/

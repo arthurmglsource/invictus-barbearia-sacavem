@@ -1,0 +1,115 @@
+[
+  {
+    "file": "/assets/invictus/fachada-sacavem-oficial.webp",
+    "section": "Rodapé",
+    "sourcePage": "https://invictusbarbeariasacavem.setmore.com/gallery",
+    "sourceImage": "https://images.setmore.com/files/img/fk1ACKrULRiv/1268bf5b-2201-46d9-8c32-1d798cf12ab1.jpeg",
+    "width": 2560,
+    "height": 2507
+  },
+  {
+    "file": "/assets/invictus/interior-sacavem.webp",
+    "section": "A Invictus — imagem ampla",
+    "sourcePage": "https://invictusbarbeariasacavem.setmore.com/gallery",
+    "sourceImage": "https://images.setmore.com/files/img/fDiHnporQvdx/da536971-e399-40a2-9cee-4fe89b81bec0.jpeg",
+    "width": 2560,
+    "height": 1706
+  },
+  {
+    "file": "/assets/invictus/processo-atendimento.webp",
+    "section": "A Invictus — bastidores",
+    "sourcePage": "https://invictusbarbeariasacavem.setmore.com/gallery",
+    "sourceImage": "https://images.setmore.com/files/img/fxMrDntI63we/b466b52a-c6ee-45f3-a224-c5d247c67634.jpeg",
+    "width": 2560,
+    "height": 1706
+  },
+  {
+    "file": "/assets/invictus/corte-azul.webp",
+    "section": "Galeria",
+    "sourcePage": "https://invictusbarbeariasacavem.setmore.com/gallery",
+    "sourceImage": "https://images.setmore.com/files/img/fIQeGkfSxzL3/9a19811c-cae6-4cf9-813f-c0ac937286c2.jpeg",
+    "width": 1344,
+    "height": 2400
+  },
+  {
+    "file": "/assets/invictus/equipa-evento.webp",
+    "section": "A Invictus — equipa",
+    "sourcePage": "https://invictusbarbeariasacavem.setmore.com/gallery",
+    "sourceImage": "https://images.setmore.com/files/img/fYxZqpPvCRBt/b9bbd8e5-3141-46f5-91ca-5ca4895e24b0.jpeg",
+    "width": 1440,
+    "height": 2560
+  },
+  {
+    "file": "/assets/invictus/corte-desenho-lateral.webp",
+    "section": "Galeria",
+    "sourcePage": "https://invictusbarbeariasacavem.setmore.com/gallery",
+    "sourceImage": "https://images.setmore.com/files/img/fFvSWbYf0spf/146fdeb7-5a3a-4b2c-ae98-804ebf79a357.jpeg",
+    "width": 2560,
+    "height": 2560
+  },
+  {
+    "file": "/assets/invictus/corte-platinado.webp",
+    "section": "Galeria",
+    "sourcePage": "https://invictusbarbeariasacavem.setmore.com/gallery",
+    "sourceImage": "https://images.setmore.com/files/img/fg0SP2vNhxyW/2ee07301-8185-4291-a9b5-e3202bbccf3c.jpeg",
+    "width": 2560,
+    "height": 2560
+  },
+  {
+    "file": "/assets/invictus/corte-infantil-penteado.webp",
+    "section": "Galeria",
+    "sourcePage": "https://invictusbarbeariasacavem.setmore.com/gallery",
+    "sourceImage": "https://images.setmore.com/files/img/fO6aqA69yHIN/a3d78a4a-9081-463b-b454-eecc1b3512e1.jpeg",
+    "width": 2560,
+    "height": 2560
+  },
+  {
+    "file": "/assets/invictus/cortes-tres-clientes.webp",
+    "section": "A Invictus — clientes",
+    "sourcePage": "https://invictusbarbeariasacavem.setmore.com/gallery",
+    "sourceImage": "https://images.setmore.com/files/img/fwJHWJt0OJrk/c6f0cbc4-74f7-48b0-89b4-abfc7c42017f.jpeg",
+    "width": 1920,
+    "height": 2560
+  },
+  {
+    "file": "/assets/invictus/corte-texturizado.webp",
+    "section": "Galeria",
+    "sourcePage": "https://invictusbarbeariasacavem.setmore.com/gallery",
+    "sourceImage": "https://images.setmore.com/files/img/fgy3AU30WsnG/25ad229d-87a1-49c5-834e-ab3e0f9b523b.jpeg",
+    "width": 1920,
+    "height": 2560
+  },
+  {
+    "file": "/assets/invictus/portrait-classico-cutout.png",
+    "section": "Hero",
+    "sourceLocal": "references/invictus/02_FOTOS_REAIS/03_corte_classico_barba.jpg",
+    "note": "Original do pacote fornecido; duas versões responsivas, um único lugar.",
+    "edit": "Remoção do fundo com ImageGen integrado; PNG RGBA com transparência; original preservado."
+  },
+  {
+    "file": "/assets/invictus/portrait-fade-cutout.png",
+    "section": "Hero",
+    "sourceLocal": "references/invictus/02_FOTOS_REAIS/01_corte_fade_crespo_perfil.jpg",
+    "note": "Original do pacote fornecido; duas versões responsivas, um único lugar.",
+    "edit": "Remoção do fundo com ImageGen integrado; PNG RGBA com transparência; original preservado."
+  },
+  {
+    "file": "/assets/invictus/portrait-mascara-cutout.png",
+    "section": "Hero",
+    "sourceLocal": "references/invictus/02_FOTOS_REAIS/04_tratamento_mascara_black.jpg",
+    "note": "Original do pacote fornecido; duas versões responsivas, um único lugar.",
+    "edit": "Remoção do fundo com ImageGen integrado; PNG RGBA com transparência; original preservado."
+  },
+  {
+    "file": "/assets/invictus/02-desenho-nuca.webp",
+    "section": "Galeria",
+    "sourceLocal": "references/invictus/02_FOTOS_REAIS/02_corte_desenho_nuca.jpg",
+    "note": "Fotografia original fornecida no projeto. Não foi atribuído um post não verificado."
+  },
+  {
+    "file": "/assets/invictus/06-corte-crianca.webp",
+    "section": "Serviços",
+    "sourceLocal": "references/invictus/02_FOTOS_REAIS/06_corte_crianca_classico.jpg",
+    "note": "Redistribuído para manter as quatro fotos editoriais exclusivas."
+  }
+]
