@@ -9,6 +9,8 @@ export const viewport: Viewport = {
 };
 
 const IS_PREVIEW = process.env.VERCEL_ENV === 'preview';
+const PRODUCTION_URL = 'https://invictus-barbearia-sacavem.vercel.app';
+const PRODUCTION_OG_IMAGE = `${PRODUCTION_URL}/assets/invictus/og-preview.png`;
 const PREVIEW_URL = 'https://invictus-sacavem-preview.vercel.app';
 const PREVIEW_OG_IMAGE = `${PREVIEW_URL}/assets/invictus/og-preview.png`;
 
@@ -32,6 +34,7 @@ export const metadata: Metadata = IS_PREVIEW
             url: PREVIEW_OG_IMAGE,
             width: 1200,
             height: 630,
+            type: 'image/png',
             alt: 'Logótipo da Invictus Barbearia',
           },
         ],
@@ -44,7 +47,7 @@ export const metadata: Metadata = IS_PREVIEW
       },
     }
   : {
-      metadataBase: new URL('https://invictusbarbeariasacavem.setmore.com'),
+      metadataBase: new URL(PRODUCTION_URL),
       title: 'INVICTUS BARBEARIA — Sacavém | Mais Que Uma Barbearia',
       description:
         'Barbearia em Sacavém (Av. São José, 26A). Cortes masculinos de precisão, degradê, barbaterapia com vaporizador e toalha quente, e tratamento facial Máscara Black. Marca já online.',
@@ -58,22 +61,23 @@ export const metadata: Metadata = IS_PREVIEW
         'Av. São José 26A Sacavém',
       ],
       alternates: {
-        canonical: SETMORE_URL,
+        canonical: PRODUCTION_URL,
       },
       openGraph: {
         title: 'INVICTUS BARBEARIA — Sacavém, Portugal',
         description:
           'Precisão. Estilo. Identidade. Cortes masculinos, barbaterapia completa e cuidado facial na Av. São José, 26A em Sacavém. Classificação 4.9★.',
-        url: SETMORE_URL,
+        url: PRODUCTION_URL,
         siteName: 'Invictus Barbearia — Sacavém',
         locale: 'pt_PT',
         type: 'website',
         images: [
           {
-            url: '/assets/invictus/og-image.jpg',
+            url: PRODUCTION_OG_IMAGE,
             width: 1200,
             height: 630,
-            alt: 'Invictus Barbearia — Sacavém, Portugal',
+            type: 'image/png',
+            alt: 'Logótipo da Invictus Barbearia',
           },
         ],
       },
@@ -82,7 +86,7 @@ export const metadata: Metadata = IS_PREVIEW
         title: 'INVICTUS BARBEARIA — Sacavém | Mais Que Uma Barbearia',
         description:
           'Precisão. Estilo. Identidade. Marca o teu corte ou barbaterapia na Invictus Barbearia em Sacavém (Av. São José, 26A).',
-        images: ['/assets/invictus/og-image.jpg'],
+        images: [PRODUCTION_OG_IMAGE],
       },
     };
 
