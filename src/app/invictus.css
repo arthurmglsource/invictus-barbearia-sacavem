@@ -1404,3 +1404,15 @@ html{scroll-padding-top:84px}
 html[data-iv-photo-header=true] .iv-header{background:linear-gradient(#0009,transparent);text-shadow:0 1px 5px #0009}
 /* Restore the mobile gallery's original light surface and dark lettering. */
 @media(max-width:768px){.iv-gallery{background:var(--iv-paper)}}
+
+.iv-footer-meta{display:contents}
+.iv-mgl-credit{display:inline-flex;align-items:baseline;gap:.35em;text-align:right;color:var(--iv-muted);text-decoration:none;transition:color .2s ease}
+.iv-mgl-credit span{font-weight:600;letter-spacing:.14em;color:var(--iv-paper);transition:color .2s ease}
+.iv-mgl-credit:hover,.iv-mgl-credit:focus-visible{color:var(--iv-paper)}
+.iv-mgl-credit:hover span,.iv-mgl-credit:focus-visible span{color:#fff;text-decoration:underline;text-underline-offset:4px}
+.iv-mgl-credit:focus-visible{outline:2px solid #a88856;outline-offset:4px}
+@media(max-width:768px){
+  .iv-footer-meta{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 10px}
+  .iv-mgl-credit{text-align:left}
+  .iv-mgl-credit::before{content:'·';margin-right:2px;color:var(--iv-muted);opacity:.6}
+}
