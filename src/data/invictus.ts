@@ -462,7 +462,7 @@ export const SERVICE_CATEGORIES: ServiceCategory[] = [
 export const VERIFIED_REVIEWS: VerifiedReview[] = [
   {
     id: 'sen-riusuu',
-    author: 'Rafael Santos',
+    author: 'Sen Riusuu',
     source: 'Avaliação Google · Publicada no Setmore',
     rating: 5,
     quote: 'Serviço impecável. Atitude e serviço extremamente profissionais.',
